@@ -38,10 +38,9 @@ import androidx.lifecycle.OnLifecycleEvent
  * https://developer.android.com/guide/components/processes-and-threads
  *
  */
+//membuat timer
 class DessertTimer {
-
-
-
+    
     // The number of seconds counted since the timer started
     var secondsCount = 0
 
@@ -71,7 +70,7 @@ class DessertTimer {
         // Note that the Thread the handler runs on is determined by a class called Looper.
     }
 
-   
+
     fun stopTimer() {
         // Removes all pending posts of runnable from the handler's queue, effectively stopping the
         // timer
