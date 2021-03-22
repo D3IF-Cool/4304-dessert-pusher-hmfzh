@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
-INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
-INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
-INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
+ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
 MERGED from [androidx.databinding:databinding-adapters:4.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8a725f23157453a69dfe44e6794e7e01\databinding-adapters-4.1.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:4.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b9c7203c099333c1caf9b6e3afc88aab\databinding-runtime-4.1.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d6d4b590c4145625b009a0b0674360b0\constraintlayout-2.0.0-rc1\AndroidManifest.xml:2:1-11:12
@@ -29,25 +29,25 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\.gradle\cac
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\337aa86b66bca5db1c8e8480b2c83a9a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\7d8474c111cf067a105b410a9994a0fb\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8831cd7c889ec485cf1c35bf1a4d343e\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
-INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
-INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
+INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
 	package
 		ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:18:5-49
 		INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
+		ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
 		INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
+		ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-39:12
 		INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:11-69
 application
-ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:20:5-36:19
+ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:20:5-37:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d6d4b590c4145625b009a0b0674360b0\constraintlayout-2.0.0-rc1\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d6d4b590c4145625b009a0b0674360b0\constraintlayout-2.0.0-rc1\AndroidManifest.xml:9:5-20
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4beb5b9d4b060ae3d6a853c5d8c72bbf\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
@@ -73,19 +73,21 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Us
 	android:name
 		ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:21:9-43
 activity#com.example.android.dessertclicker.MainActivity
-ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:28:9-35:20
+ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:configChanges
+		ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:30:13-59
 	android:name
 		ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:29:13-75
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:30:13-34:29
+ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:31:17-69
+ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:31:25-66
+		ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:33:17-77
+ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:33:27-74
+		ADDED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml:34:27-74
 uses-sdk
 INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Materi Kuliah\Semester 4\Mobpro\Modul 6\DessertClicker-Starter\app\src\main\AndroidManifest.xml

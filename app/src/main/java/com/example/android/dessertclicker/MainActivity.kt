@@ -202,5 +202,9 @@ class MainActivity : AppCompatActivity() {
         outState.putInt(KEY_DESSERT_SOLD, dessertsSold)
     }
 
+    override fun onConfigurationChanged(newConfig: Configuration) {
+        super.onConfigurationChanged(newConfig)
+    }
+
 
 }
