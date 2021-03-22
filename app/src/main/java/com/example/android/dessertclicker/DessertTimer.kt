@@ -53,7 +53,7 @@ class DessertTimer {
     private lateinit var runnable: Runnable
 
 
-    @OnLifecycleEvent(Lifecycle.Event.ON_START)
+
     fun startTimer() {
         // Create the runnable action, which prints out a log and increments the seconds counter
         runnable = Runnable {
@@ -71,7 +71,7 @@ class DessertTimer {
         // Note that the Thread the handler runs on is determined by a class called Looper.
     }
 
-    @OnLifecycleEvent(Lifecycle.Event.ON_STOP)
+   
     fun stopTimer() {
         // Removes all pending posts of runnable from the handler's queue, effectively stopping the
         // timer
